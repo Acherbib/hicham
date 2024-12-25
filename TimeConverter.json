@@ -1,0 +1,10 @@
+{
+  "buttons": [
+    {
+      "name": "Button Name",
+      "imageUrl": "image_url",
+      "coinValue": 1,
+      "link": "https://example.com"
+    }
+  ]
+}
