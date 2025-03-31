@@ -1,10 +1,56 @@
 {
-  "buttons": [
-    {
-      "name": "Button Name",
-      "imageUrl": "image_url",
-      "coinValue": 1,
-      "link": "https://example.com"
+  "adConfig": {
+    "androidBannerId": "ca-app-pub-4348253261219099/1936216088",
+    "iOSBannerId": "ca-app-pub-xxxxxx/xxxxxx"
+  },
+  "buttons": {
+    "button1": {
+      "coinValue": 100,
+      "imageUrl": "https://img.freepik.com/free-photo/3d-illustration-wallet-with-coins-credit-cards_107791-16572.jpg?t=st=1737572621~exp=1737576221~hmac=a992105e9191e92c001fed4575d5e95b05b6d4e9a35e80ce0a58dca6122896b9&w=1800",
+      "link": "http://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Get Coins For Tik"
+    },
+    "button2": {
+      "coinValue": 10,
+      "imageUrl": "https://img.freepik.com/free-vector/detailed-point-exchange-illustration_23-2148850434.jpg?t=st=1737573087~exp=1737576687~hmac=0f7ce77d3868a5c322fdc8abe5b877714fc0906cf1f0bb113d95b27692da2a4a&w=1380",
+      "link": "https://play.google.com/store/apps/details?id=com.live.video.online.coins.giftapps",
+      "name": "Extra Bonus Live"
+    },
+    "button3": {
+      "coinValue": 150,
+      "imageUrl": "https://i02.appmifile.com/images/2019/09/10/b3788a8e-24d2-41b3-91c4-131968dab219.gif",
+      "link": "http://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Quiz "
+    },
+    "button4": {
+      "coinValue": 150,
+      "imageUrl": "https://img.freepik.com/free-vector/bag-gold-coins-concept-illustration_114360-29648.jpg?t=st=1737573226~exp=1737576826~hmac=9865eb7331e73e7b639e98f7a1870052642c1944cbb5b16c06da2498d1b38933&w=1380",
+      "link": "http://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Special Tik Gifts"
+    },
+    "button5": {
+      "coinValue": 10,
+      "imageUrl": "https://cdn3d.iconscout.com/3d/premium/thumb/finance-protection-3d-icon-download-in-png-blend-fbx-gltf-file-formats--security-money-financial-fintech-pack-business-icons-9571665.png",
+      "link": "http://0g9qo.bemobtrk.com/go/5827ebd6-d24c-44a7-ad3c-6c765b2dc307",
+      "name": "Daily Bonus"
+    },
+    "button6": {
+      "coinValue": 100,
+      "imageUrl": "https://img.freepik.com/free-vector/detailed-point-exchange_23-2148845560.jpg?t=st=1737576014~exp=1737579614~hmac=3964c77242e9e0e75450f83f91f5e7484c57b4754a4ab3bacdba9c5e16e13eab&w=1380",
+      "link": "http://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Free Tik Coins"
+    },
+    "button7": {
+      "coinValue": 10,
+      "imageUrl": "https://cdn3d.iconscout.com/3d/premium/thumb/bitcoin-mining-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--logo-cryptocurrency-pack-business-illustrations-4089223.png",
+      "link": "http://0g9qo.bemobtrk.com/go/5827ebd6-d24c-44a7-ad3c-6c765b2dc307",
+      "name": "Mine Coin"
+    },
+    "button8": {
+      "coinValue": 100,
+      "imageUrl": "https://cdn3d.iconscout.com/3d/premium/thumb/crypto-exchange-3d-icon-download-in-png-blend-fbx-gltf-file-formats--bitcoin-logo-cryptocurrency-ethereum-pack-icons-5204265.png?f=webp",
+      "link": "http://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Spin to Win"
     }
-  ]
+  }
 }
