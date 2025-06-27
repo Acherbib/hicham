@@ -6,9 +6,51 @@
   "buttons": {
     "button1": {
       "coinValue": 100,
-      "imageUrl": "",
+      "imageUrl": "https://example.com/image1.jpg",
       "link": "https://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
       "name": "Get Coins For Tik"
+    },
+    "button2": {
+      "coinValue": 50,
+      "imageUrl": "https://example.com/image2.jpg", 
+      "link": "https://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Extra Bonus"
+    },
+    "button3": {
+      "coinValue": 75,
+      "imageUrl": "https://example.com/image3.jpg",
+      "link": "https://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e", 
+      "name": "Quiz Challenge"
+    },
+    "button4": {
+      "coinValue": 125,
+      "imageUrl": "https://example.com/image4.jpg",
+      "link": "https://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Special Offer"
+    },
+    "button5": {
+      "coinValue": 25,
+      "imageUrl": "https://example.com/image5.jpg",
+      "link": "https://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Daily Bonus"
+    },
+    "button6": {
+      "coinValue": 90,
+      "imageUrl": "https://example.com/image6.jpg",
+      "link": "https://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Free Coins"
+    },
+    "button7": {
+      "coinValue": 35,
+      "imageUrl": "https://example.com/image7.jpg",
+      "link": "https://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Mine Coins"
+    },
+    "button8": {
+      "coinValue": 150,
+      "imageUrl": "https://example.com/image8.jpg",
+      "link": "https://0g9qo.bemobtrk.com/go/cd18f67c-8674-4e18-8cdc-e32f86e7ae7e",
+      "name": "Spin to Win"
     }
   }
 }
